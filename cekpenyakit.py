@@ -46,5 +46,5 @@ def basic_image_processing(image_path):
 
 if __name__ == "__main__":
     # Replace with your image path
-    image_path = "path_to_your_image.jpg"
+    image_path = "paru.jpeg"
     basic_image_processing(image_path)
